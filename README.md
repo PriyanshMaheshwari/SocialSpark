@@ -6,5 +6,7 @@ A basic project developed on MySQL which allows helps people in finding others w
 **Idea** : To let people search for others who have the similar purpose. The system will manage the data of all those who registered and make people who have the similar purpose know each other and allow them to converse.The app will also sort them on the basis of the interests that is stored in the database.
 
 **Files in the project :**
+
 Social_Spark : It contains the relation schema, ERS and other basic details about the project.
+
 SQL_Code : Contains the code for the project in SQL file with some initial entries made.
